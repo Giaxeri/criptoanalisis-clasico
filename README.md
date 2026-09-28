@@ -11,6 +11,8 @@ usando análisis estadístico: índice de coincidencia, frecuencias, ji-cuadrado
 ![Dependencies](https://img.shields.io/badge/dependencias-0-brightgreen?style=flat-square)
 ![Seguridad](https://img.shields.io/badge/tema-Criptograf%C3%ADa-8B4513?style=flat-square)
 
+[![Probar en línea](https://img.shields.io/badge/%E2%96%B6_Probar_en_l%C3%ADnea-GitHub_Pages-222?style=for-the-badge&logo=github)](https://giaxeri.github.io/criptoanalisis-clasico/)
+
 <img src="preview.png" alt="Interfaz de la herramienta" width="680">
 
 </div>
@@ -64,9 +66,9 @@ Texto descifrado + clave
 
 ## Uso
 
-Abre `index.html` en cualquier navegador moderno. No requiere instalación.
+**En línea:** https://giaxeri.github.io/criptoanalisis-clasico/
 
-También se puede publicar en **GitHub Pages**: *Settings → Pages → Deploy from a branch → `main` / root*.
+**En local:** abre `index.html` en cualquier navegador moderno. No requiere instalación.
 
 ## Autor
 
